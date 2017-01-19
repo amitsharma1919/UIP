@@ -10,7 +10,7 @@ class PageNotFound extends React.Component {
             <div>
                 <h1>Error-404</h1>
                 <p>
-                    Page not found - the path, {location.pathname},
+                    Page not found - the path, <code>{location.pathname}</code>,
                     did not match any React Router routes.
                 </p>
             </div>

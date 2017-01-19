@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/NIT-dgp/UIP/issues"
   },
-  "homepage": "https://github.com/NIT-dgp/UIP#readme",
+  "homepage": "https://nit-dgp.github.io/UIP/",
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
